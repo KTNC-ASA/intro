@@ -1,5 +1,4 @@
-# intro
-Introduction to KTNC's GitHub
+# Introduction to KTNC's GitHub
 
 The team behind KTNC has some lion-sized goals. We aim not only to improve the utility and usefulness of the token, but to push Algorand forward as we share code and information about our smart contracts, marketplaces and applications.
 
