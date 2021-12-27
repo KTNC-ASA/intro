@@ -44,6 +44,9 @@ _CURRENTLY UNDER DEVELOPMENT_
 _These project have a developer actively working toward their completion._
 
 + NFT Faucet / Dispenser @dan.cat
+
+https://github.com/ktnc-asa-org/nft-faucet
+
   + Hosted first party application
   + Byproduct of project is boilerplate templates for future applications
     + Includes Docker container recipes
