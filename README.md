@@ -2,6 +2,9 @@
 _WORKING DRAFT_
 
 
+![KittenCoinOfficial](https://user-images.githubusercontent.com/93789515/147427563-2eb74fb5-824a-4512-b04d-205e295f93db.png)
+
+
 **I. Introduction**
 
 The KTNC community has some lion-sized goals. We aim not only to improve the utility and usefulness of the token, but to push Algorand forward as we share code and information about our smart contracts, marketplaces and applications. 
