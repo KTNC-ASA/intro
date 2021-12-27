@@ -22,6 +22,7 @@ KittenCoin is a community coin, and while we have a main development team consis
 Or goals can be divided in to short term “features” that will add immediate and obvious value to the token, or to the community generally, and long term initiatives, or “epics” that will work to align the token to use-cases that support the primary goals of the KTNC Community — education, charity, and artist development 
 
 **Project Status List (Subject to Change)**
+
 _CURRENTLY UNDER DEVELOPMENT_
 + NFT Faucet / Dispenser @dan.cat
   + Hosted first party application
