@@ -93,9 +93,4 @@ The KTNC team has a bunch of ideas, and we know the community has more. For idea
 +https://www.algorand.com/ecosystem/developer-resources
 
 
-  
-  
-  
- 
-
-
+<img src="https://user-images.githubusercontent.com/93789515/147427913-4e2f1893-64d4-4607-942a-29d4f459fbc5.png" width="96">
