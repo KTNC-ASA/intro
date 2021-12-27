@@ -1,9 +1,7 @@
 # KittenCoin Community Technical Roadmap #
 _WORKING DRAFT_
 
-
-![KittenCoinOfficial](https://user-images.githubusercontent.com/93789515/147427563-2eb74fb5-824a-4512-b04d-205e295f93db.png)
-
+<img src="ttps://user-images.githubusercontent.com/93789515/147427563-2eb74fb5-824a-4512-b04d-205e295f93db.png" width="48">
 
 **I. Introduction**
 
