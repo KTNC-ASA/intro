@@ -23,28 +23,28 @@ Or goals can be divided in to short term “features” that will add immediate 
 
 **Project Status List (Subject to Change)**
 _CURRENTLY UNDER DEVELOPMENT_
--NFT Faucet / Dispenser @dan.cat
-  -Hosted first party application
-  -Byproduct of project is boilerplate templates for future applications
-    - Includes Docker container recipes
--Smart contract escrow @lazy.cat
-  -Time released, all at once lockup (under development)
-  -Time released, % over time lockup (proposed)
-  -Permanent lockup (burn wallet -- proposed)
++ NFT Faucet / Dispenser @dan.cat
+  + Hosted first party application
+  + Byproduct of project is boilerplate templates for future applications
+    + Includes Docker container recipes
++ Smart contract escrow @lazy.cat
+  + Time released, all at once lockup (under development)
+  + Time released, % over time lockup (proposed)
+  + Permanent lockup (burn wallet -- proposed)
 
 _ACTIVELY SEEKING LEAD_
--Website relaunch 
--Wallet integration
--NFT marketplace
++ Website relaunch 
++ Wallet integration
++ NFT marketplace
 
 _OTHER POTENTIAL PROJECTS_
--KittenCoin ASA Community Governance (DAO)
--Algorand Asset Profiles service (support the litterbox for scam token identification and analysis)
-  -"Standard" metadata provided by MayAlgo/AlgoExplorer API integration
-    -i.e., age of asset, percentage held by creator wallet, etc.
--Staking KTNC and other tokens (i.e. "The Zoo")
--Airdrop and faucet services
--Idea discovery service
++ KittenCoin ASA Community Governance (DAO)
++ Algorand Asset Profiles service (support the litterbox for scam token identification and analysis)
+  + "Standard" metadata provided by MayAlgo/AlgoExplorer API integration
+    + i.e., age of asset, percentage held by creator wallet, etc.
++ Staking KTNC and other tokens (i.e. "The Zoo")
++ Airdrop and faucet services
++ Idea discovery service
 
 
   
