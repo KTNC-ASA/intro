@@ -43,14 +43,14 @@ _CURRENTLY UNDER DEVELOPMENT_
 
 _These project have a developer actively working toward their completion._
 
-+ NFT Faucet / Dispenser @dan.cat
-
 https://github.com/ktnc-asa-org/nft-faucet
 
++ NFT Faucet / Dispenser (@dan.cat)
   + Hosted first party application
   + Byproduct of project is boilerplate templates for future applications
     + Includes Docker container recipes
-+ Smart contract escrow @lazy.cat
+
++ Smart contract escrow (@lazy.cat)
   + Time released, all at once lockup (under development)
   + Time released, % over time lockup (proposed)
   + Permanent lockup (burn wallet -- proposed)
