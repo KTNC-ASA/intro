@@ -1,4 +1,4 @@
-# Introduction to KTNC's GitHub
+# KittenCoin Community Technical Roadmap #
 _WORKING DRAFT_
 
 The KTNC community has some lion-sized goals. We aim not only to improve the utility and usefulness of the token, but to push Algorand forward as we share code and information about our smart contracts, marketplaces and applications. 
