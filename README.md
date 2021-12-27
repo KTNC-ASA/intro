@@ -81,7 +81,8 @@ The KTNC team has a bunch of ideas, and we know the community has more. For idea
 + How about minting a single nft for each species of cat
 + Game: Instead of dogs playing poker how about cats playing poker? a live poker room with cat avatars and of course bets with ktnc
 
-**VI. Resources
+**VI. Resources**
+
 +https://www.algorand.com/ecosystem/developer-resources
 
 
