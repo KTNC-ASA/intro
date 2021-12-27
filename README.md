@@ -9,10 +9,8 @@ KittenCoin Community developers will build resources to support and promote inte
 
 We think KittenCoin’s friendly and fun brand allows us to be uniquely experimental, push the envelope, and have fun while we discover and unlock the power of the Algorand blockchain. We invite you to review our technical roadmap. 
 
-
-
-**Recruitment
-**Interested in joining our team? Please reach out to us directly at recruiting@kittencoin-asa.net
+**Recruitment**
+**Interested in joining our team? Please reach out to us directly at recruiting@kittencoin-asa.net**
 
 -Lead devs (dedicated weekly commitments, long term compensation plans possible, bounties) 
 =Junior devs (sportatic “sprint” or “project” commitments, bounty eligible)
