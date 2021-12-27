@@ -40,6 +40,7 @@ _Examples of Features_
 **IV. Project Status List (Subject to Change)**
 
 _CURRENTLY UNDER DEVELOPMENT_
+
 _These project have a developer actively working toward their completion._
 
 + NFT Faucet / Dispenser @dan.cat
@@ -52,6 +53,7 @@ _These project have a developer actively working toward their completion._
   + Permanent lockup (burn wallet -- proposed)
 
 _ACTIVELY SEEKING LEAD_
+
 _These projects have been identified as a priority but do not have active leads assigned to them._
 
 + Website relaunch 
@@ -59,6 +61,7 @@ _These projects have been identified as a priority but do not have active leads 
 + NFT marketplace
 
 _OTHER POTENTIAL PROJECTS_
+
 _These projects are ideas that have been raised by the team, but have not been prioritized by the team or assigned resources_
 
 + KittenCoin ASA Community Governance (DAO)
