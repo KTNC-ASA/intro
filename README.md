@@ -12,9 +12,9 @@ We think KittenCoin’s friendly and fun brand allows us to be uniquely experime
 **Recruitment**
 **Interested in joining our team? Please reach out to us directly at recruiting@kittencoin-asa.net**
 
--Lead devs (dedicated weekly commitments, long term compensation plans possible, bounties) 
-=Junior devs (sportatic “sprint” or “project” commitments, bounty eligible)
--Volunteer/Learner devs (access to the resources, low commitment level)
++ Lead devs (dedicated weekly commitments, long term compensation plans possible, bounties) 
++ Junior devs (sportatic “sprint” or “project” commitments, bounty eligible)
++ Volunteer/Learner devs (access to the resources, low commitment level)
 
 KittenCoin is a community coin, and while we have a main development team consisting of lead and junior devs, there are always opportunities for volunteers and community members to take on projects that pique their interest. Our dev team and cross-token development community is there to assist novice, volunteer, and other casual developers pursue projects that can be used by the KTNC community. If an interest aligns with our goals, we may even support a bounty program.
 
