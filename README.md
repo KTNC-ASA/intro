@@ -82,6 +82,9 @@ _These projects are ideas that have been raised by the team, but have not been p
 **V. Community Lab Initiative**
 The KTNC team has a bunch of ideas, and we know the community has more. For ideas that come from the community, we’ll send them to the CLI — a staging place for analysis and determination for further development.
 
+_Suggestion Box (will be upgraded)_
+https://forms.gle/i96xDrkKry31V9YG9
+
 + Click Farm game (Eg. “Cookie Clicker”)
 + Build your cat NFT generator
 + Digital playing cards in NFT form with varying rarity - all with cute KittenCoin characters similar to those on the website! Either doing different kitten-like actions or simply modified with more detail for the rarer cards/NFTs.
