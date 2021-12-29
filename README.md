@@ -37,8 +37,8 @@ _Examples of Epics_
 _Examples of Features_
 + Using KTNC as an instigator for action
   + Payment system
-  + Seemless swaps for NFTs
-  + Triggers to inittate a game or raffle
+  + Seamless swaps for NFTs
+  + Triggers to initiate a game or raffle
  
 
 **IV. Project Status List (Subject to Change)**
@@ -73,7 +73,7 @@ _These projects are ideas that have been raised by the team, but have not been p
 
 + KittenCoin ASA Community Governance (DAO)
 + Algorand Asset Profiles service (support the litterbox for scam token identification and analysis)
-  + "Standard" metadata provided by MayAlgo/AlgoExplorer API integration
+  + "Standard" metadata provided by MyAlgo/AlgoExplorer API integration
     + i.e., age of asset, percentage held by creator wallet, etc.
 + Staking KTNC and other tokens (i.e. "The Zoo")
 + Airdrop and faucet services
